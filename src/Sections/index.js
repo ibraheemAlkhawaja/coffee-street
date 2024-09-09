@@ -1,0 +1,8 @@
+export {default as Header} from "./Header/Header"
+export {default as Hero} from "./Hero/Hero"
+export {default as PopularNow} from "./PopularNow/PopularNow"
+export {default as UseDelivery} from "./UseDelivery/UseDelivery"
+export {default as AboutUs} from "./AboutUs/AboutUs"
+export {default as AllProducts} from "./AllProducts/AllProducts"
+export {default as Footer} from "./Footer/Footer"
+export {default as FilterProduct} from "./FilterProduct/FilterProduct"

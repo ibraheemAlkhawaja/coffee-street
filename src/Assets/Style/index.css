@@ -1,0 +1,8 @@
+@import url("../../../node_modules/bootstrap/dist/css/bootstrap.css");
+@import url("swiper/css");
+@import url("swiper/css/navigation");
+@import url("swiper/css/pagination");
+@import url("swiper/css/scrollbar");
+/* end libraries  */
+@import url("./globale.css");
+@import url("./fonts.css");
