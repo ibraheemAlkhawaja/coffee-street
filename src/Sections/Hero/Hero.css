@@ -55,7 +55,7 @@
 .hero .img-hero{
     width: 526.71px;
     height: 416px;
-    background-image: url(../../Assets//Images/bg-caffee.png);
+    background-image: url(../../Assets/Images/bg-caffee.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -65,8 +65,7 @@
     position: absolute;
     width: 416px;
     height: 416px;
-    border-radius: 50%;
-    
+    border-radius: 50%
 }
 .hero .img-hero .Cappuccino-img,
 .hero .img-hero .rating-img,

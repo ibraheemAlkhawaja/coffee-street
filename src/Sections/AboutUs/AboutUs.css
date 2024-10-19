@@ -14,6 +14,7 @@
     border: 4px solid var(--bg-glass);
     border-radius: 12px;
     background-color: var( --bg-glass);
+    margin-right: 120px;
 }
 .about .img-about img{
     width: 100%;

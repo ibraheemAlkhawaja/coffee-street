@@ -7,8 +7,7 @@ const CardProducts = (props) => {
     <div className="card-products justi-evenly-row">
       <div className="img-card-products">
         <div className="rating-img-card-products">
-          <p>{props.rating}</p>
-          <img src={icons1} />
+          <p>{props.rating}<span><img src={icons1}/></span></p>
         </div>
         <img src={props.img} />
       </div>

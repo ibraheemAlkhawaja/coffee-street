@@ -50,7 +50,7 @@ const Hero = () => {
                   </div>
                 </div>
                 <div className="watch-img flex-center">
-                  <p>{item.popularity}K</p>
+                  <p>{item.price}K</p>
                 </div>
               </div>
             ))}

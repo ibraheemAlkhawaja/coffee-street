@@ -21,6 +21,8 @@ const PopularNow = () => {
                 name={item.name}
                 img={item.image_url}
                 sub_category ={item.sub_category}
+                price ={item.price}
+                rating ={item.rating}
               />
             </div>
           ))}

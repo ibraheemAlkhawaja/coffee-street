@@ -7,6 +7,15 @@
 .card-filter .img-card-filter{
     width: 212px;
     height: 280px;
+    backdrop-filter: blur(2px);
+    padding: 6px;
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.4) 0%,
+      rgba(255, 255, 255, 0.7) 100%
+    );
+    border-radius: 12px;
+    background-color: var(--bg-primary);
 }
 .card-filter .img-card-filter img{
     width: 100%;

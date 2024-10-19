@@ -7,7 +7,7 @@ const CardCoffee = (props) => {
         <div className='card justi-evenly-row'>
             <div className="img-card">
                 <div className="rating-img-card">
-                    <p>4.8 <span><img src={icons1}/></span></p>
+                    <p>{props.rating} <span><img src={icons1}/></span></p>
                     
                 </div>
                 <img src={props.img} />
@@ -15,7 +15,7 @@ const CardCoffee = (props) => {
             <div className="content-card">
                 <div className="desc-card">
                     <h1>{props.name}</h1>
-                    <p>{props.popularity} K</p>
+                    <p>{props.price} K</p>
                 </div>
                 <div className="btn-icons-card">
                     <button>{props.sub_category}</button>
